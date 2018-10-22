@@ -64,8 +64,7 @@ Add 4" jumpers to each of the sensors and motor.
 
 Both printed circuit boards can be requested from kevinol@ (limited supply) or you can take the provided gerber files and have them manufactured yourself.
 
-<img src="conn-board/asbuilt1.jpg" width="300" />
-<img src="conn-board/asbuilt2.jpg" width="300" />
+<img src="conn-board/asbuilt1.jpg" width="300" /> <img src="conn-board/asbuilt2.jpg" width="300" />
 
 #### Schematic
 <img src="conn-board/schematic.png" width="600" />
@@ -73,20 +72,16 @@ Both printed circuit boards can be requested from kevinol@ (limited supply) or y
 Printed Circuit Board (PCB)
 Top
 
-<img src="conn-board/top.png" width="300" />
-<img src="conn-board/top_3d.png" width="300" />
+<img src="conn-board/top.png" width="300" /> <img src="conn-board/top_3d.png" width="300" />
 
 Bottom
 
-<img src="conn-board/bottom.png" width="300" />
-<img src="conn-board/bottom_3d.png" width="300" />
+<img src="conn-board/bottom.png" width="300" /> <img src="conn-board/bottom_3d.png" width="300" />
 
 
 ### Raspberry PI Zero Shield:
 
-<img src="rpi-zero-shield/asbuilt1.jpg" width="400" />
-
-<img src="rpi-zero-shield/asbuilt3.jpg" width="600" />
+<img src="rpi-zero-shield/asbuilt1.jpg" width="400" /> <img src="rpi-zero-shield/asbuilt3.jpg" width="600" />
 
 #### Schematic
 <img src="rpi-zero-shield/schematic.png" width="600" />
@@ -94,10 +89,8 @@ Bottom
 Printed Circuit Board (PCB)
 Top
 
-<img src="rpi-zero-shield/top.png" width="300" />
-<img src="rpi-zero-shield/top_3d.png" width="300" />
+<img src="rpi-zero-shield/top.png" width="300" /> <img src="rpi-zero-shield/top_3d.png" width="300" />
 
 Bottom
 
-<img src="rpi-zero-shield/bottom.png" width="300" />
-<img src="rpi-zero-shield/bottom_3d.png" width="300" />
+<img src="rpi-zero-shield/bottom.png" width="300" /> <img src="rpi-zero-shield/bottom_3d.png" width="300" />
