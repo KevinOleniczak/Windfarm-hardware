@@ -3,8 +3,8 @@
 ### Description:
 The turbine has a 3 part spinning airfoil connected to a DC motor that acts as a generator whos voltage is measured using an analog to digital converter. Rotation speed is measured using a hall effect sensor and magnet on the backside of the rotor assembly. Temperature of the generator is measured by a sensor placed adjacent to it. Vibraton of the turbine is measured using a 3-axis accelerometer. There is also a RGB LED mounted on top that provides a visual indication of status and safety condition. Finally, there is a mini-servo with a small arm that acts as a physical brake that can be activated to stop the rotation of the turbine when commanded to do so. THe 12 volt power supply is regulated down to 5 volts to provide power to the servo.
 
-<img src="models/turbine_model.png" height="600" />
-<img src="models/turbine_modelb.png" height="600" />
+<img src="models/turbine_model.PNG" height="600" />
+<img src="models/turbine_modelb.PNG" height="600" />
 
 ### Parts
 * 1 [Raspberry PI Zero W](https://www.amazon.com/CanaKit-Raspberry-Wireless-Complete-Starter/dp/B072N3X39J/ref=sr_1_7?ie=UTF8&qid=1539961324&sr=8-7&keywords=raspberry+pi+zero+w)
