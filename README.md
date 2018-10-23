@@ -11,7 +11,7 @@ This demo windfarm contains several model elements that help you experience the 
 
 [Turbine Model](turbine/turbine.md)
 
-[Weather Station Model](wx-station/wx.md)
+[Weather Station Model](wx-station/wx-station.md)
 
 ![](windfarm_demo.jpg)
 
