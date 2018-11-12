@@ -5,6 +5,8 @@ The turbine has a 3 part spinning airfoil connected to a DC motor that acts as a
 
 <img src="models/turbine_modelc.PNG" height="500" />  <img src="models/turbine_model.PNG" height="500" /> <img src="models/turbine_modelb.PNG" height="500" />
 
+<img src="turbine.jpg" width="400" />
+
 ### Parts
 * 1 [Raspberry PI Zero W](https://www.amazon.com/CanaKit-Raspberry-Wireless-Complete-Starter/dp/B072N3X39J/ref=sr_1_7?ie=UTF8&qid=1539961324&sr=8-7&keywords=raspberry+pi+zero+w)
 * 1 40-pin male header (2x20)
