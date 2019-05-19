@@ -52,7 +52,7 @@ Obtain or 3D print the parts for the turbine using the provided STL files:
 * [Upper mast](models/mast_b.STL)
 * [Turbine housing](models/head.STL)
 * [Housing cover](models/head_cover.STL)
-* Hub and blades
+* [Hub and blades](models/fin_blade_v2.STL)
 
 Solder the 40 pin male header to the RPI on the BOTTOM SIDE. The shield is designed to mount below the RPI so that you can also use a camera on the front for future plans.
 
